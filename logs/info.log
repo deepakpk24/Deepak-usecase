@@ -1,2 +1,8 @@
 2025-03-18 12:01:10 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
 2025-03-18 12:01:10 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 16 ms
+2025-03-18 12:19:57 [RMI TCP Connection(27)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2025-03-18 17:30:22 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.deepak.spring.jpa.h2OrPostGres.SpringBootJpaH2Application for test class com.deepak.spring.jpa.h2OrPostGres.SpringBootJpaH2ApplicationTests
+2025-03-18 17:31:20 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.deepak.spring.jpa.h2OrPostGres.SpringBootJpaH2Application for test class com.deepak.spring.jpa.h2OrPostGres.SpringBootJpaH2ApplicationTests
+2025-03-18 17:33:23 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.deepak.spring.jpa.h2OrPostGres.SpringBootJpaH2Application for test class com.deepak.spring.jpa.h2OrPostGres.SpringBootJpaH2ApplicationTests
+2025-03-18 17:36:51 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.deepak.spring.jpa.h2OrPostGres.SpringBootJpaH2Application for test class com.deepak.spring.jpa.h2OrPostGres.SpringBootJpaH2ApplicationTests
+2025-03-18 17:37:15 [RMI TCP Connection(12)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
